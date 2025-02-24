@@ -27,4 +27,4 @@ npm run createUser
 echo "🚀 Starting Oversee..."
 node .
 
-echo "📢 Don't forget to subscribe to my YouTube channel for more content! 👉 https://youtube.com/@mahimking11 🎥🎮"
+echo "📢 DEATH SPIDER PANEL INSTALLED"
